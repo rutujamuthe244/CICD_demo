@@ -23,11 +23,4 @@ setup(
 )
 
 
-# COMMAND ----------
 
-# MAGIC %pip install setuptools wheel
-# MAGIC
-
-# COMMAND ----------
-
-!python setup.py bdist_wheel
